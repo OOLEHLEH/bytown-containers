@@ -1,0 +1,3 @@
+Q1: The file was deleted because it was stored in the containers temporary storage and not a persistent docker volume.
+Q2: The proxy handles the outside requests and communicates with the web container internally through dockers network
+Q3: An image is a template used to create a container, a container is a running instance of that image
